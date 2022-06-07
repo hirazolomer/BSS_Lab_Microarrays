@@ -1,0 +1,9 @@
+FileName	Target
+GSM1014808_AFX_2_N1.CEL	matched normal colon tissue
+GSM1014809_AFX_2_N2.CEL	matched normal colon tissue
+GSM1014810_AFX_2_N3.CEL	matched normal colon tissue
+GSM1014811_AFX_2_N4.CEL	matched normal colon tissue
+GSM1014813_AFX_2_T1.CEL	tumor, colon adenocarcinoma
+GSM1014814_AFX_2_T2.CEL	tumor, colon adenocarcinoma
+GSM1014815_AFX_2_T3.CEL	tumor, colon adenocarcinoma
+GSM1014816_AFX_2_T4.CEL	tumor, colon adenocarcinoma
